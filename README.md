@@ -7,5 +7,5 @@ Los pasos de instalación están detallados en el manual de usuario.
 Se detallan en el pdf de documentación técnica.
 
 ## Proyecto realizado con:
-  #### Federico Funes
-  #### Santiago Marinaro
+  1) Federico Funes
+  2) Santiago Marinaro
